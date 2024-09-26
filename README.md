@@ -1,16 +1,15 @@
 # unit4_assignment_biaca
 
-A new Flutter project.
+# CC206 Assignment 6: Personal Profile App
 
-## Getting Started
+This is a Flutter application developed as part of CC206 Assignment 6.
+The app displays a personal profile page, including information about Joven Carl Rex P. Biaca. 
+It contains sections for profile, education details, and a personal biography.
 
-This project is a starting point for a Flutter application.
+Features
+- Profile Section: Displays a profile picture and basic information like name and address.
+- Information Section: Includes key details such as birthdate, contact information, and education.
+- GWA Table: Presents a structured table showcasing grades for first and second year.
+- Biography Section: A short biography describing personal background and interests.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![My Image](assets/hmpg.jpg)
